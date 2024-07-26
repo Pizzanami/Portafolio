@@ -3,3 +3,15 @@
     font-weight: 400;
     font-style: normal;
 }
+
+#BarraNav{
+    background-color: #3e004a !important;
+}
+
+#dropdown_nav{
+    background-color: #1c0224 !important;
+}
+
+#presentacion{
+    /* background-color: #1f0021; */
+}
