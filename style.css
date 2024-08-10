@@ -12,6 +12,72 @@
     background-color: #1c0224 !important;
 }
 
+.proyecto{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#proyecto_1{
+    background-image: url('assets/Clon_google.png');
+    /* filter: blur(8px); */
+}
+
+#proyecto_2{
+    background-image: url('assets/Hack_IA_2024.png');
+    /* filter: blur(8px); */
+}
+
+#proyecto_3{
+    background-image: url('assets/RainWise.png');
+}
+
+#proyecto_4{
+    background-image: url('assets/Clusterizador.png');
+}
+
 #presentacion{
-    /* background-color: #1f0021; */
+    min-height: 88vh;
+    display: flex;
+    justify-content: start;
+    align-items: center !important;
+    padding-top: 5rem !important;
+
+    background-image: url('assets/FondoPresentacion.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#contacto{
+    background-color: #3e004a !important;
+}
+
+.imgpresentacion{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+
+.imgredonda{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.habilidad_boton{
+    background-color: #7d1192 !important;
+    border-color: #6e1480;
+}
+
+.boton_github{
+    background-color: #7d1192 !important;
+    border-color: #6e1480;
+}
+
+.text-shadow-1 {
+    text-shadow: 0px -1px 8px rgba(0, 0, 0, 1);
+}
+
+.testimonio{
+    min-height: 88vh;
 }
